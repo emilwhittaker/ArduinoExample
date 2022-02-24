@@ -14,7 +14,7 @@ by Tom Igoe
 // these are the frequencies for the notes from middle C
 // to one octave above middle C:
 const int note[] = {
-262, // C
+200, // C
 277, // C#
 294, // D
 311, // D#
@@ -26,7 +26,7 @@ const int note[] = {
 440, // A
 466, // A#
 494, // B
-523  // C next octave
+607  // C next octave
 };
  
 void setup()
